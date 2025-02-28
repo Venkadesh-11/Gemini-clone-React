@@ -15,8 +15,4 @@ A **React.js-based AI-powered chat application** that integrates with **Googleâ€
 - **RESTful APIs**  
 - **HTML5, CSS3**  
 
-## Installation & Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Venkadesh-11/Gemini-AI-Clone.git
-   cd Gemini-AI-Clone
+
